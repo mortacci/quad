@@ -11,3 +11,8 @@ steps:
   - echo hello
   - sleep 30
   - echo world
+
+- name: terza
+  image: busybox
+  commands:
+  - echo daje 1
