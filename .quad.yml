@@ -15,4 +15,4 @@ steps:
 - name: terza
   image: busybox
   commands:
-  - echo daje 1
+  - echo daje 2
