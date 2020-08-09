@@ -1,0 +1,13 @@
+
+steps:
+- name: backend
+  image: golang:1.14.2
+  commands:
+  - go version
+
+- name: frontend
+  image: busybox
+  commands:
+  - echo hello
+  - sleep 30
+  - echo world
