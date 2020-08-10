@@ -1,0 +1,2 @@
+this is a test file
+which should be readable from a fresh checkout.
