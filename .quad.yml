@@ -3,7 +3,7 @@ steps:
 - name: backend
   image: golang:1.14.2
   commands:
-  - echo "seems like it's working"
+  - echo "look at this, it's awesome"
   - go version
 
 - name: frontend
